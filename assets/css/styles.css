@@ -889,7 +889,8 @@ body.dark-theme {
     justify-content: center;
   }
 
-  .message__form {
+  .message__form,
+  .celebrate__tittle {
     text-align: initial;
   }
 
