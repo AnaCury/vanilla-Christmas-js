@@ -25,5 +25,8 @@
 
 Check it out **[here](https://anacury.github.io/vanilla-Christmas-js/)**.
 
+<img align="center" src="/img/img.png" width="450" />
+
+
 ##
 Developed with love 💛 by [Ana Cury](https://github.com/anacury/)
