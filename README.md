@@ -1,10 +1,10 @@
 # Christmas inspirations 🎅🏻
 
-- Responsive Christmas Website Using HTML, CSS & JavaScript
+- Responsive Christmas Website using HTML, CSS & Vanilla JavaScript
 - Smooth scrolling in each section
 - Dark and light mode
 - Developed first with the Mobile First methodology, then for desktop
-- Compatible with all mobile devices and with a beautiful and pleasant user interface
+- Compatible with all mobile devices and with a beautiful and pleasant **user interface
 
 # Inspirate 🎄
 
