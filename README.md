@@ -8,6 +8,13 @@
 - User friendly
 - Accessibility, Usability, & Inclusion
 
+## Demo ❄️
+
+Check it out **[here](https://anacury.github.io/vanilla-Christmas-js/)**.
+
+<img align="center" src="/img/img.png" width="450" />
+
+
 ## Inspired by 🎄
 
 - [Bedimcode](https://github.com/bedimcode)
@@ -21,12 +28,5 @@
 - [Google Fonts](https://fonts.google.com/)
 - [Iconscout](https://iconscout.com/)
 
-## Demo ❄️
-
-Check it out **[here](https://anacury.github.io/vanilla-Christmas-js/)**.
-
-<img align="center" src="/img/img.png" width="450" />
-
-
 ##
-Developed with love 💛 by [Ana Cury](https://github.com/anacury/)
+Developed with love ❤️ by [Ana Cury](https://github.com/anacury/)
