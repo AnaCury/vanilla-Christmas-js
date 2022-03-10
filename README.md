@@ -29,4 +29,4 @@ Check it out **[here](https://anacury.github.io/vanilla-Christmas-js/)**.
 - [Iconscout](https://iconscout.com/)
 
 ##
-Developed with love ❤️ by [Ana Cury](https://github.com/anacury/)
+Crafted with care & love ❤️ by [Ana Cury](https://github.com/anacury/)
